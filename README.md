@@ -1,4 +1,4 @@
-#### Bot Telegram for Image Style Transfer
+### Bot Telegram for Image Style Transfer
 ##### Implementation of Image Style Transfer with the use of pretrained model from TensorFlow Hub magenta/arbitrary-image-stylization-v1-256/2
 
 Imlementation is based on the original work for artistic style transfer with neural networks proposed a slow optimization algorithm that works on any arbitrary painting.
