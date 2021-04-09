@@ -7,7 +7,7 @@ Technologies:
 - Python 3;
 - TensorFlow 2.
 
-####Prerequisites
+#### Prerequisites
 You need to install packages to project's environment:
 - telebot;
 - urllib.request;
