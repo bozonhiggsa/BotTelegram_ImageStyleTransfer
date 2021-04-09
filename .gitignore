@@ -1,4 +1,4 @@
 ### Pycharm ###
 .idea
-__pycache__
-/tmp
+__pycache__/
+tmp/
